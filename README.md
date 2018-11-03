@@ -32,3 +32,8 @@ Evidently, for Cluster-0
     Hylidae, Hypsiboas and HypsiboasCordobae are the classes for the labels family, genus and species respectively.
     
    And, Leptodactylidae, Adenomera and  AdenomeraHylaedactylus correspond to the classes for labels family, genus and species respectively in Cluster-1.
+
+        Average Hamming Loss: 0.2985406532314107
+        Average Zero-one Loss: 0.3638637943015983
+        
+The algorithm performs fairly, this is a tribute to the higher number of samples in the data-set.
