@@ -25,3 +25,10 @@ https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29#
 •	Hamming Loss of the Majority Triplet(each of the k Clusters)
 
     o	As part of analysis I decided to calculate the hamming loss of each Cluster's family, genus and species.
+
+# Results
+
+Evidently, for Cluster-0 
+    Hylidae, Hypsiboas and HypsiboasCordobae are the classes for the labels family, genus and species respectively.
+    
+   And, Leptodactylidae, Adenomera and  AdenomeraHylaedactylus correspond to the classes for labels family, genus and species respectively in Cluster-1.
